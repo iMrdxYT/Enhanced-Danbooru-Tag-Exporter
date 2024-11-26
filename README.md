@@ -36,7 +36,3 @@ Feel free to fork the repository, submit issues, or create pull requests. Contri
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version has been stripped of any AI-related references. Let me know if you'd like to make further adjustments!
