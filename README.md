@@ -1,7 +1,3 @@
-Here’s the revised version of the README with all AI-related references removed:
-
----
-
 # Enhanced Danbooru Tags Exporter
 
 [![GreasyFork Link](https://img.shields.io/badge/GreasyFork-Script-blue)](https://greasyfork.org/en/scripts/518979-enhanced-danbooru-tag-exporter)
