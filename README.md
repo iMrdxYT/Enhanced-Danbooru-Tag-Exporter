@@ -4,6 +4,8 @@
 
 A powerful tool to export multiple tags from Danbooru's pages to .txt files with flexible naming options. Features include ordered export (ascending/descending) and customization to suit your needs.
 
+## Screenshot
+https://github.com/iMrdxYT/Enhanced-Danbooru-Tag-Exporter/blob/main/image.png?raw=true
 ## Features
 
 - **Flexible Export**: Export multiple tags from Danbooru directly to .txt files.
