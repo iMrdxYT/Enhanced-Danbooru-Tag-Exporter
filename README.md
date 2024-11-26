@@ -2,7 +2,7 @@
 
 [![GreasyFork Link](https://img.shields.io/badge/GreasyFork-Script-blue)](https://greasyfork.org/en/scripts/518979-enhanced-danbooru-tag-exporter)
 
-A powerful tool to export multiple tags from Danbooru's pages to .txt files with flexible naming options. Features include ordered export (ascending/descending) and customization to suit your needs.
+A tool to export multiple tags from Danbooru's pages to .txt files with flexible naming options. Features include ordered export (ascending/descending) and customizations
 
 ## Screenshot
 ![Screenshot](https://github.com/iMrdxYT/Enhanced-Danbooru-Tag-Exporter/blob/main/image.png?raw=true)
